@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">I am a student from GeegBrains</h3>
 
-https://github.com/Ps8564/Test_work_27_05_2024/blob/main/Block%20diagram.jpg
+
+[<img src="path/to/image.png">]([https://link-to-your-URL/](https://github.com/Ps8564/Test_work_27_05_2024/blob/main/Block%20diagram.jpg))
 
 
 ## Итоговая контрольная работа по основному блоку
