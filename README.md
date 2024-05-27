@@ -7,6 +7,6 @@
 
 #### Пример полученного результата:
 * **`GB 27 05 24 LAB SHP 007`**
-* 
+
 ![PrintResult](Scrin_print_result.png)
 
