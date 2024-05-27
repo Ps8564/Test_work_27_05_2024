@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">I am a student from GeegBrains</h3>
 
+<p dir="auto"><a href="/Ps8564/Test_work_27_05_2024/blob/main/Block diagram.jpg">Блок-схема</a>  <a href="/Ps8564/Test_work_27_05_2024/blob/blob/main/Test_work_on_the_main_block.cs">Код</a></p>
 
 ## Итоговая контрольная работа по основному блоку
 ### Выполнил: Шутылев П.В. 27.05.2024
