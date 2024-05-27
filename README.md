@@ -3,9 +3,6 @@
 <h3 align="center">I am a student from GeegBrains</h3>
 
 
-[<img src="path/to/image.png">]([https://link-to-your-URL/](https://github.com/Ps8564/Test_work_27_05_2024/blob/main/Block%20diagram.jpg))
-
-
 ## Итоговая контрольная работа по основному блоку
 ### Выполнил: Шутылев П.В. 27.05.2024
 ### Решение:
