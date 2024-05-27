@@ -9,5 +9,5 @@
 * **`GB 27 05 24 LAB SHP 007`**
 
   Чтобы вставить изображение в текст, достаточно написать следующее:
-![Arduino Uno](Arduino-UNO.jpg)
+![Arduino Uno](Scrin_print_result.png)
 
